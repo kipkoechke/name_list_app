@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-#Stateful widgets
+# Stateful widgets
 In Flutter, widgets are like building blocks that you can use to create your app's user interface. There are two types of widgets in Flutter: stateful and stateless. Stateful widgets are ones that can change over time, while stateless widgets are ones that don't change.
 
 Think of a stateful widget like a video game character. The character's appearance and behavior can change as you play the game. For example, if the character gets hit by an enemy, their health might decrease, and they might change their behavior to try to avoid getting hit again. Similarly, a stateful widget can change its appearance and behavior based on user interaction or other events that happen while the app is running.
